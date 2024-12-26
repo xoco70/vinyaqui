@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Bonjour tout le monde !	</title>
-	<atom:link href="/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>/bonjour-tout-le-monde/</link>
+	<atom:link href="https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/</link>
 	<description>Tourisme de vignes agroécologiques en pays Catalan</description>
 	<lastBuildDate>Sun, 06 Oct 2024 11:47:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

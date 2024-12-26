@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires pour Viny&#039;aqui	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://xoco70.github.io/vinyaqui/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/vinyaqui/</link>
 	<description>Tourisme de vignes agroécologiques en pays Catalan</description>
 	<lastBuildDate>Wed, 30 Oct 2024 14:00:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

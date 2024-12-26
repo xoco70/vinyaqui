@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://xoco70.github.io/vinyaqui/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/fusion_tb_category/content/</loc>
+		<loc>https://xoco70.github.io/vinyaqui/fusion_tb_category/content/</loc>
 		<lastmod>2024-10-30T10:12:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fusion_tb_category/footer/</loc>
+		<loc>https://xoco70.github.io/vinyaqui/fusion_tb_category/footer/</loc>
 		<lastmod>2024-10-30T10:41:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fusion_tb_category/header/</loc>
+		<loc>https://xoco70.github.io/vinyaqui/fusion_tb_category/header/</loc>
 		<lastmod>2024-10-03T17:30:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fusion_tb_category/page_title_bar/</loc>
+		<loc>https://xoco70.github.io/vinyaqui/fusion_tb_category/page_title_bar/</loc>
 		<lastmod>2023-01-10T16:12:18+00:00</lastmod>
 	</url>
 </urlset>
