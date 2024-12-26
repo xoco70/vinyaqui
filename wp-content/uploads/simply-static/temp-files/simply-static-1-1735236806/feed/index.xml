@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Viny&#039;aqui</title>
+	<atom:link href="https://xoco70.github.io/vinyaqui/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/vinyaqui/</link>
+	<description>Tourisme de vignes agroécologiques en pays Catalan</description>
+	<lastBuildDate>Sun, 06 Oct 2024 11:47:26 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://xoco70.github.io/vinyaqui/wp-content/uploads/2022/12/cropped-VINYAQUI_without_text-32x32.png</url>
+	<title>Viny&#039;aqui</title>
+	<link>https://xoco70.github.io/vinyaqui/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bonjour tout le monde !</title>
+		<link>https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/</link>
+					<comments>https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/#respond</comments>
+		
+		<dc:creator><![CDATA[julien]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2024 15:59:17 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://vinyaqui.com/?p=1</guid>
+
+					<description><![CDATA[<p>L’article <a href="https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a href="https://xoco70.github.io/vinyaqui/">Viny&#039;aqui</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-flex-wrap:wrap;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap" style="max-width:1248px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><i class="fb-icon-element-1 fb-icon-element fontawesome-icon fa-mountain fas circle-yes fusion-text-flow" style="--awb-iconcolor:var(--awb-custom_color_1);--awb-iconcolor-hover:var(--awb-custom_color_1);--awb-circlecolor:var(--awb-color1);--awb-circlecolor-hover:var(--awb-color3);--awb-circlebordercolor-hover:var(--awb-custom_color_1);--awb-circlebordersize:1px;--awb-font-size:32px;--awb-width:60px;--awb-height:60px;--awb-line-height:58px;--awb-margin-right:16px;"></i></div></div></div></div>
+<p>L’article <a href="https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/">Bonjour tout le monde !</a> est apparu en premier sur <a href="https://xoco70.github.io/vinyaqui/">Viny&#039;aqui</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://xoco70.github.io/vinyaqui/bonjour-tout-le-monde/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

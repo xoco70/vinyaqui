@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'bb';
+  src:  url('fonts/bb.eot?h47e99');
+  src:  url('fonts/bb.eot?h47e99#iefix') format('embedded-opentype'),
+    url('fonts/bb.ttf?h47e99') format('truetype'),
+    url('fonts/bb.woff?h47e99') format('woff'),
+    url('fonts/bb.svg?h47e99#bb') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="bb-"], [class*=" bb-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bb' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bb-star-solid:before {
+  content: "\e900";
+}
+.bb-bars-solid:before {
+  content: "\e901";
+}
+.bb-xmark-solid:before {
+  content: "\e902";
+}
+.bb-360:before {
+  content: "\e903";
+}
+.bb-arrow:before {
+  content: "\e904";
+}
+.bb-bed:before {
+  content: "\e905";
+}
+.bb-bell:before {
+  content: "\e906";
+}
+.bb-breakfast:before {
+  content: "\e907";
+}
+.bb-bus:before {
+  content: "\e908";
+}
+.bb-calendar:before {
+  content: "\e909";
+}
+.bb-check:before {
+  content: "\e90a";
+}
+.bb-cocktail:before {
+  content: "\e90b";
+}
+.bb-coffee:before {
+  content: "\e90c";
+}
+.bb-disturb:before {
+  content: "\e90d";
+}
+.bb-flower-1:before {
+  content: "\e90e";
+}
+.bb-flower-2:before {
+  content: "\e90f";
+}
+.bb-flower-3:before {
+  content: "\e910";
+}
+.bb-flower-4:before {
+  content: "\e911";
+}
+.bb-guests:before {
+  content: "\e912";
+}
+.bb-hotel:before {
+  content: "\e913";
+}
+.bb-passport:before {
+  content: "\e914";
+}
+.bb-payment:before {
+  content: "\e915";
+}
+.bb-plane:before {
+  content: "\e916";
+}
+.bb-pool:before {
+  content: "\e917";
+}
+.bb-receipt:before {
+  content: "\e918";
+}
+.bb-shower:before {
+  content: "\e919";
+}
+.bb-suitcase:before {
+  content: "\e91a";
+}
+.bb-towel:before {
+  content: "\e91b";
+}
+.bb-wifi:before {
+  content: "\e91c";
+}
+.bb-wine:before {
+  content: "\e91d";
+}
